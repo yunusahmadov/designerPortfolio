@@ -139,6 +139,10 @@ max-width: 500px;
         top: 100px;
         width: 350px;
     }
+    .cards_text_left h2{
+        font-size: 100%;
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 705px){
