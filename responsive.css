@@ -190,6 +190,8 @@ max-width: 500px;
     }
     .creative h2{
         width: 250px;
+        margin-left: auto;
+        margin-right: auto;
     }
     }
 
